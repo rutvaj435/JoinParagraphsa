@@ -1,0 +1,15 @@
+body input{
+    margin-top: 25px;
+}
+
+#para1{
+    margin-left: 300px;
+    float: left;
+}
+#showParagraph1{
+    margin-left: 50px;
+}
+#para2{
+    margin-right:300px;
+    float: right;
+}
